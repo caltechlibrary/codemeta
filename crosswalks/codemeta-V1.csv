@@ -71,3 +71,11 @@ referencePublication,relatedPublications
 readme,readme
 hasSourceCode,
 isSourceCodeOf,
+,relatedIdentifer
+,relatedIdentiferType
+,relationshipType
+,title
+,namespace
+,role
+,roleCode
+,softwarePaperCitationIdenifiers

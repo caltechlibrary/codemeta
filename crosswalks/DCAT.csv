@@ -41,7 +41,6 @@ version,
 isAccessibleForFree,
 isPartOf,dcterms:isPartOf
 hasPart,dcterms:hasPart
-position,
 description,dcterms:description
 identifier,dcterms:identifier
 name,dcterms:title

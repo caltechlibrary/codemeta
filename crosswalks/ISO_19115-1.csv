@@ -41,7 +41,6 @@ version,identificationInfo.citation.edition
 isAccessibleForFree,distributionInfo.distributionFormat.formatDistributor.distributionOrderProcess.fees
 isPartOf,identificationInfo.associatedResource[associationType='LargerWorkCitation'].name*
 hasPart,identificationInfo.associatedResource[associationType='isComposedOf'].name*
-position,
 description,identificationInfo.abstract
 identifier,identificationInfo.citation.identifier.code
 name,identificationInfo.citation.title

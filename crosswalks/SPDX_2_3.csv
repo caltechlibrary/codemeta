@@ -41,7 +41,6 @@ version,PackageVersion
 isAccessibleForFree,
 isPartOf,CONTAINED_BY
 hasPart,CONTAINS
-position,
 description,PackageSummary / PackageDescription
 identifier,
 name,PackageName
