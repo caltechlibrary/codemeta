@@ -1,5 +1,5 @@
-Property,SciCrunchRegistry
-codeRepository,
+Property,Rust Package Manager
+codeRepository,package.repository
 programmingLanguage,
 review,
 runtimePlatform,
@@ -15,13 +15,13 @@ permissions,
 processorRequirements,
 releaseNotes,
 softwareHelp,
-softwareRequirements,
+softwareRequirements,"dependencies, dev-dependencies, build-dependencies"
 softwareVersion,
 storageRequirements,
 supportingData,
-author,
-citation,Proper Citation
-contributor,
+author,package.authors
+citation,
+contributor,package.authors
 copyrightHolder,
 copyrightYear,
 dateCreated,
@@ -30,30 +30,30 @@ datePublished,
 editor,
 encoding,
 fileFormat,
-funder,Funding Agency
-keywords,Keywords/Related Condition
-license,Availability
+funder,
+keywords,package.keyword
+license,package.license
 producer,
 provider,
 publisher,
 sponsor,
-version,
+version,package.version
 isAccessibleForFree,
-isPartOf,Parent Organization
-hasPart,Resource Relationships
+isPartOf,
+hasPart,
 position,
-description,Description
-identifier,Resource ID/Alternate IDs
-name,Resource Name
-sameAs,Abbreviations/Synonyms
-url,Resource Website/Old URLs/Alternate URLs
-relatedLink,
+description,
+identifier,
+name,package.authors
+sameAs,
+url,package.homepage
+relatedLink,package.documentation
 givenName,
 familyName,
-email,
+email,package.authors
 affiliation,
 identifier,
-name,
+name,package.authors
 address,
 reviewAspect,
 reviewBody,
@@ -61,14 +61,14 @@ endDate,
 roleName,
 startDate,
 softwareSuggestions,
-maintainer,
+maintainer,package.authors
 continuousIntegration,
 buildInstructions,
 developmentStatus,
 embargoEndDate,
 funding,
-issueTracker,
-referencePublication,Defining Citation
-readme,
+issueTracker,badges.is-it-maintained-open-issues
+referencePublication,
+readme,package.readme
 hasSourceCode,
 isSourceCodeOf,
