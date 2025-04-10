@@ -1,5 +1,5 @@
-Property,Java (Maven)
-codeRepository,scm / repositories
+Property,Rust Package Manager
+codeRepository,package.repository
 programmingLanguage,
 review,
 runtimePlatform,
@@ -15,13 +15,13 @@ permissions,
 processorRequirements,
 releaseNotes,
 softwareHelp,
-softwareRequirements,prerequisites
+softwareRequirements,"dependencies, dev-dependencies, build-dependencies"
 softwareVersion,
 storageRequirements,
 supportingData,
-author,
+author,package.authors
 citation,
-contributor,
+contributor,package.authors
 copyrightHolder,
 copyrightYear,
 dateCreated,
@@ -31,29 +31,29 @@ editor,
 encoding,
 fileFormat,
 funder,
-keywords,
-license,license
+keywords,package.keyword
+license,package.license
 producer,
 provider,
 publisher,
 sponsor,
-version,version
+version,package.version
 isAccessibleForFree,
 isPartOf,
 hasPart,
 position,
-description,description
-identifier,groupId
-name,name
+description,
+identifier,
+name,package.authors
 sameAs,
-url,
-relatedLink,
+url,package.homepage
+relatedLink,package.documentation
 givenName,
 familyName,
-email,
+email,package.authors
 affiliation,
 identifier,
-name,
+name,package.authors
 address,
 reviewAspect,
 reviewBody,
@@ -61,14 +61,14 @@ endDate,
 roleName,
 startDate,
 softwareSuggestions,
-maintainer,
-continuousIntegration,ciManagement
+maintainer,package.authors
+continuousIntegration,
 buildInstructions,
 developmentStatus,
 embargoEndDate,
 funding,
-issueTracker,issueManagement
+issueTracker,badges.is-it-maintained-open-issues
 referencePublication,
-readme,
+readme,package.readme
 hasSourceCode,
 isSourceCodeOf,
