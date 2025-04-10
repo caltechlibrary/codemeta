@@ -1,12 +1,12 @@
-Property,Software Discovery Index
-codeRepository,
+Property,SPDX 2.3
+codeRepository,PackageSourceInfo
 programmingLanguage,
-review,
+review,Annotation
 runtimePlatform,
 targetProduct,
-applicationCategory,
+applicationCategory,PrimaryPackagePurpose
 applicationSubCategory,
-downloadUrl,
+downloadUrl,PackageDownloadLocation
 fileSize,
 installUrl,
 memoryRequirements,
@@ -15,47 +15,47 @@ permissions,
 processorRequirements,
 releaseNotes,
 softwareHelp,
-softwareRequirements,"""Platform, environment, and dependencies"""
-softwareVersion,
+softwareRequirements,
+softwareVersion,PackageVersion
 storageRequirements,
 supportingData,
-author,
+author,PackageOriginator
 citation,
 contributor,
 copyrightHolder,
 copyrightYear,
-dateCreated,
+dateCreated,BuiltDate
 dateModified,
-datePublished,
+datePublished,ReleaseDate
 editor,
 encoding,
-fileFormat,
+fileFormat,FileType
 funder,
 keywords,
-license,Software license
-producer,
-provider,
+license,PackageLicenseConcluded
+producer,PackageOriginator
+provider,PackageSupplier
 publisher,
 sponsor,
-version,Software version
+version,PackageVersion
 isAccessibleForFree,
-isPartOf,
-hasPart,
-description,
-identifier,Persistent Identifier
-name,Software title
+isPartOf,CONTAINED_BY
+hasPart,CONTAINS
+description,PackageSummary / PackageDescription
+identifier,
+name,PackageName
 sameAs,
-url,
+url,PackageHomePage
 relatedLink,
 givenName,
 familyName,
 email,
 affiliation,
 identifier,
-name,
+name,PackageOriginator
 address,
-reviewAspect,
-reviewBody,
+reviewAspect,AnnotationType
+reviewBody,AnnotationComment
 endDate,
 roleName,
 startDate,
@@ -69,5 +69,5 @@ funding,
 issueTracker,
 referencePublication,
 readme,
-hasSourceCode,
-isSourceCodeOf,
+hasSourceCode,PackageSourceInfo
+isSourceCodeOf,GENERATED_FROM

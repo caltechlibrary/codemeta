@@ -1,8 +1,8 @@
-Property,NodeJS
-codeRepository,repository
+Property,Leiningen (Clojure)
+codeRepository,scm.name / scm.url
 programmingLanguage,
 review,
-runtimePlatform,engines
+runtimePlatform,
 targetProduct,
 applicationCategory,
 applicationSubCategory,
@@ -10,18 +10,18 @@ downloadUrl,
 fileSize,
 installUrl,
 memoryRequirements,
-operatingSystem,os
+operatingSystem,
 permissions,
-processorRequirements,cpu
+processorRequirements,
 releaseNotes,
 softwareHelp,
-softwareRequirements,dependencies / bundledDependencies / bundleDependencies / peerDependencies
+softwareRequirements,
 softwareVersion,
 storageRequirements,
 supportingData,
-author,author
+author,
 citation,
-contributor,contributors
+contributor,
 copyrightHolder,
 copyrightYear,
 dateCreated,
@@ -31,8 +31,8 @@ editor,
 encoding,
 fileFormat,
 funder,
-keywords,keywords
-license,license
+keywords,
+license,license.url
 producer,
 provider,
 publisher,
@@ -42,31 +42,31 @@ isAccessibleForFree,
 isPartOf,
 hasPart,
 description,description
-identifier,name
-name,name
+identifier,
+name,project-name
 sameAs,
-url,homepage
+url,url
 relatedLink,
 givenName,
 familyName,
-email,author.email
+email,mailing-list.post
 affiliation,
 identifier,
-name,author.name
+name,
 address,
 reviewAspect,
 reviewBody,
 endDate,
 roleName,
 startDate,
-softwareSuggestions,devDependencies / optionalDependencies
+softwareSuggestions,
 maintainer,
 continuousIntegration,
 buildInstructions,
 developmentStatus,
 embargoEndDate,
 funding,
-issueTracker,bugs
+issueTracker,
 referencePublication,
 readme,
 hasSourceCode,

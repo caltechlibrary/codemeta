@@ -41,7 +41,6 @@ version,
 isAccessibleForFree,
 isPartOf,P361
 hasPart,P527
-position,
 description,
 identifier,
 name,
@@ -68,7 +67,7 @@ developmentStatus,
 embargoEndDate,
 funding,
 issueTracker,P1401
-referencePublication,P1343
+referencePublication,
 readme,
 hasSourceCode,
 isSourceCodeOf,

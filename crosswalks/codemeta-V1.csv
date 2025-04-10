@@ -41,7 +41,6 @@ version,version
 isAccessibleForFree,
 isPartOf,
 hasPart,
-position,
 description,description
 identifier,identifier
 name,name
@@ -72,11 +71,3 @@ referencePublication,relatedPublications
 readme,readme
 hasSourceCode,
 isSourceCodeOf,
-,relatedIdentifer
-,relatedIdentiferType
-,relationshipType
-,title
-,namespace
-,role
-,roleCode
-,softwarePaperCitationIdenifiers
